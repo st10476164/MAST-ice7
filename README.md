@@ -6,7 +6,7 @@
 ## Haw1
 
 ## Reflection Prompt:
-
+My buttons and prompts reflect the purpose of the app. I used bold and energetic colors in my app.
 
 
 ## Screenshot 

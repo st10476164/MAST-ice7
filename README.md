@@ -10,6 +10,8 @@ My buttons and prompts reflect the purpose of the app. I used bold and energetic
 
 
 ## Screenshot 
+<img width="375" height="640" alt="image" src="https://github.com/user-attachments/assets/a4a90dca-b023-4c14-8631-6b2742e5e839" />
+
 
 ## Reference list
 MDN Web Docs (2025) HTML: HyperText Markup Language. Mozilla Developer Network. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
